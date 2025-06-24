@@ -7,7 +7,7 @@ package Patterns.Alphabets;
 public class Zpattern {
     public static void main(String[] args) {
         int i,j;
-        char str2='E';
+        char str2='D';
         for(i=1;i<=5;i++){
             char str='A';
             for(j=1;j<=5;j++){
